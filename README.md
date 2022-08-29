@@ -58,17 +58,16 @@ ___
 <br>
 
 ## Subject
-Maplr decide to open a sugar bush and you have to develop the frontend or the backend to handle sell and the stock of maple sirup.
+Maplr decide to open a sugar shack, you will have to develop the frontend or the backend to handle sells and stocks of maple syrup.
 
 There is multiple type of maple syrup (Amber, Dark, Clear)
 
-In order to help you for this task a interface contract as been produced
+In order to help you for this task, an interface contract as been produced
 
 ## Criteria
 - The code is working
 - The quality of the code 
-- The use of "Best practice"
-
+- The use of "Best practices"
 
 ## Features:
 - Catalog of maple syrup filterable by type
@@ -97,6 +96,6 @@ In order to help you for this task a interface contract as been produced
   - A JS/TS SPA framework
 
 ## Submit the test
-Once done, please create a new repository on GitHub and email it
+Once done, please create a new repository on GitHub and email it to your Maplr contact.
 
 ### Tips : Have fun codding 
