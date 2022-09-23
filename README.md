@@ -51,6 +51,15 @@ Pour vous aider dans votre tâche, un contrat d'interface a été produit.
   - AspNet Core MVC + Razor
   - Un framework Javascript/Typescript SPA (Angular, React ou Vue)
 
+### Developpeur JS
+#### Backend
+- Framework JS
+
+#### Frontend
+- Un framework Javascript/Typescript SPA (Angular, React ou Vue)
+- Framework UI "bootstrap like" (Optionnel)
+
+
 ## Soumettre le test
 Une fois terminé, veuillez créer un nouveau dépot sur votre GitHub et l'envoyer par courriel 🚀
 
@@ -95,6 +104,14 @@ Maplr has just opened a brand new sugar shack in the middle of Quebec, you will 
   - A Javascrip/Typescript Single Page Application Framework (Angular, React ou Vue)
   - Blazor
   - AspNet Core MVC + Razor
+
+### Developpeur JS
+#### Backend
+- JS Framework
+
+#### Frontend
+- A Javascrip/Typescript Single Page Application Framework (Angular, React ou Vue)
+- UI Framework "bootstrap like" (Optional)
   
 ## Submit the test
 Once you're done, please create a new repository on your GitHub account and email it to your Maplr contact 🚀
