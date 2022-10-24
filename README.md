@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/Maplr-Community/nodejs-test-hockey-game">
-    <img src="https://maplr.co/wp-content/uploads/2019/12/Fichier-23@3x.png" alt="Logo" height="150">
+    <img src="https://maplr.co/wp-content/uploads/2022/08/logo-maplr-500px-.png" alt="Logo" height="150">
   </a>
   <h1 align='center'>🍁 La cabane à sucre Maplr / The Maplr Sugar Shack 🍁 </h1>
   <br />
