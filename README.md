@@ -65,6 +65,7 @@ Pour vous aider dans votre tâche, un contrat d'interface a été produit.
 - Framework Flutter Dart 
 - Framework UI "Material" (Optionnel)
 - Gestion du state au choix 
+- Le code doit pouvroir s'executer sur du multiplaforme a minima IOS/Android
 
 ## Soumettre le test
 Une fois terminé, veuillez créer un nouveau dépot sur votre GitHub et l'envoyer par courriel 🚀
@@ -125,6 +126,7 @@ Maplr has just opened a brand new sugar shack in the middle of Quebec, you will 
 - Framework Flutter Dart 
 - Framework UI "Material" (Optional)
 - State manager of your choice  
+- The code base should be runnable on multiplatfom at least IOS/Android
 
   
 ## Submit the test
