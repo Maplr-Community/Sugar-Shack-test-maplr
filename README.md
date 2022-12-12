@@ -59,6 +59,12 @@ Pour vous aider dans votre tâche, un contrat d'interface a été produit.
 - Un framework Javascript/Typescript SPA (Angular, React ou Vue)
 - Framework UI "bootstrap like" (Optionnel)
 
+### Developpeur Mobile
+
+#### Frontend
+- Framework Flutter Dart 
+- Framework UI "Material" (Optionnel)
+- Gestion du state au choix 
 
 ## Soumettre le test
 Une fois terminé, veuillez créer un nouveau dépot sur votre GitHub et l'envoyer par courriel 🚀
@@ -105,13 +111,21 @@ Maplr has just opened a brand new sugar shack in the middle of Quebec, you will 
   - Blazor
   - AspNet Core MVC + Razor
 
-### Developpeur JS
+### JS developer 
 #### Backend
 - JS Framework
 
 #### Frontend
 - A Javascrip/Typescript Single Page Application Framework (Angular, React ou Vue)
 - UI Framework "bootstrap like" (Optional)
+
+### Mobile developer 
+
+#### Frontend
+- Framework Flutter Dart 
+- Framework UI "Material" (Optional)
+- State manager of your choice  
+
   
 ## Submit the test
 Once you're done, please create a new repository on your GitHub account and email it to your Maplr contact 🚀
