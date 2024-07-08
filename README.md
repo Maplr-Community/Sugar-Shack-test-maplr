@@ -51,9 +51,9 @@ Pour vous aider dans votre tâche, un contrat d'interface a été produit.
   - AspNet Core MVC + Razor
   - Un framework Javascript/Typescript SPA (Angular, React ou Vue)
 
-### Developpeur JS
+### Developpeur Javascript
 #### Backend
-- Framework JS
+- Node.js avec ou sans framework
 
 #### Frontend
 - Un framework Javascript/Typescript SPA (Angular, React ou Vue)
