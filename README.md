@@ -114,7 +114,7 @@ Maplr has just opened a brand new sugar shack in the middle of Quebec, you will 
 
 ### JS developer 
 #### Backend
-- JS Framework
+- Node.js with or without framework
 
 #### Frontend
 - A Javascrip/Typescript Single Page Application Framework (Angular, React ou Vue)
